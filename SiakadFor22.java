@@ -4,7 +4,7 @@ public class SiakadFor22 {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.println("\n===============================================");
-    System.out.println("Program Mencari Nilai Terendah dan Tertinggi dari 10 Mahasiswa");
+    System.out.println("Program Mencari jumlah kelulusan, Nilai Terendah dan Tertinggi  dari 10 Mahasiswa");
 
     int jumlahMahasiswaLulus = 0;
     double nilai, terendah = 100, tertinggi = 0;
